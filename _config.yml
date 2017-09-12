@@ -198,4 +198,4 @@ gems:
   - jekyll-paginate
   - jemoji
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
